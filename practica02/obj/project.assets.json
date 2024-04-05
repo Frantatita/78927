@@ -1189,19 +1189,19 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\reyes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/app/practica02/practica02.csproj",
+      "projectUniqueName": "C:\\Users\\reyes\\Documents\\Clon\\78927\\practica02\\practica02.csproj",
       "projectName": "practica02",
-      "projectPath": "/app/practica02/practica02.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/app/practica02/obj/",
+      "projectPath": "C:\\Users\\reyes\\Documents\\Clon\\78927\\practica02\\practica02.csproj",
+      "packagesPath": "C:\\Users\\reyes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\reyes\\Documents\\Clon\\78927\\practica02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\reyes\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1254,7 +1254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
